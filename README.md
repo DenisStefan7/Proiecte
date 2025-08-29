@@ -1,5 +1,23 @@
 
-
+Proiect realizat ca lucrare de licență, având ca scop dezvoltarea unei sere inteligente, complet automatizate, capabilă să monitorizeze și să controleze parametrii esențiali pentru creșterea plantelor.
+Obiectivul proiectului
+-Automatizarea procesului de creștere a plantelor într-un mediu controlat.
+-Reducerea intervenției umane prin monitorizarea automată a parametrilor de mediu.
+-Crearea unei interfețe software pentru vizualizarea și controlul în timp real.
+Funcționalități principale
+-Monitorizarea temperaturii și umidității (senzori DHT22)
+-Controlul irigației prin pompe, activare automată când solul e uscat (senzor de umiditate în sol)
+-Iluminat artificial controlat pe baza intensității luminoase măsurate cu senzor
+-Ventilație automată pentru menținerea temperaturii optime
+-Afișare în timp real a valorilor pe o interfata web locala
+-Control manual/automat prin interfata
+Hardware
+-microcontroller ESP32
+-senzori:temperatura si umiditate, lumina, umiditate sol
+-releu, pompa de apa, matrice led, servomotor
+Software
+-C++
+-interfata: HTML, CSS.
 
 To-Do List
 O aplicație simplă pentru gestionarea sarcinilor zilnice, construită cu HTML, CSS și JavaScript.
