@@ -1,4 +1,4 @@
-
+Sera_automatizata_Licenta
 Proiect realizat ca lucrare de licență, având ca scop dezvoltarea unei sere inteligente, complet automatizate, capabilă să monitorizeze și să controleze parametrii esențiali pentru creșterea plantelor.
 Obiectivul proiectului
 -Automatizarea procesului de creștere a plantelor într-un mediu controlat.
