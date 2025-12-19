@@ -34,8 +34,8 @@ Servo acoperis;
 BH1750 lightMeter;
 MD_MAX72XX matrix = MD_MAX72XX(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN);
 
-const char* ssid = "DIGI_e837b8";
-const char* password = "ddcc17c8";
+const char* ssid = "";
+const char* password = "";
 const char* ntpServer = "pool.ntp.org";
 const long gmtOffset_sec = 3600;
 const int daylightOffset_sec = 3600;
